@@ -1,6 +1,9 @@
 # Monochron Privacy Policy
 
-_Last updated: March 10, 2025_
+**App Name:** Monochron  
+**Developer Name:** Julic Kot
+
+_Last updated: April 8, 2025_
 
 Thank you for using **Monochron**, an elegant black & white 3D clock app. Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your data.
 
