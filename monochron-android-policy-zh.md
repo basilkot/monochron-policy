@@ -1,7 +1,7 @@
 # Monochron 隐私政策
 
 **应用名称：** Monochron  
-**开发者名称：** Julic Kot
+**开发者名称：** Vasily Kotov
 
 _最后更新日期：2025年4月08日_
 

@@ -1,7 +1,7 @@
 # Monochron Privacy Policy
 
 **App Name:** Monochron  
-**Developer Name:** Julic Kot
+**Developer Name:** Vasily Kotov
 
 _Last updated: April 8, 2025_
 
